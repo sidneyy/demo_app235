@@ -20,8 +20,8 @@ development:
   reconnect: false
   database: demo_app235_development
   pool: 5
-  username: root
-  password:
+  username: sidney
+  password: 1malone
   socket: /var/lib/mysql/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
